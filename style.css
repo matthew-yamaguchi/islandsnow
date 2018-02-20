@@ -11,11 +11,7 @@
 
 .footer-background {
   background-color: #292929;
-  height: 200px;
-}
-
-
-.colorblocktop {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
